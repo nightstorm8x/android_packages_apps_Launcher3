@@ -17,5 +17,15 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
+        <item>wp_paper_001</item>
+        <item>wp_arc_001</item>
+        <item>wp_arc_003</item>
+        <item>wp_arc_004</item>
+        <item>wp_geo_1243</item>
+        <item>wp_geo_1557</item>
+        <item>wp_geo_2102</item>
+        <item>wp_geo_2167</item>
+        <item>wp_geo_2170</item>
+        <item>wp_geo_2278</item>
     </string-array>
 </resources>
